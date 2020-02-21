@@ -32,7 +32,7 @@ submitButton.addEventListener('click',() =>{
     
     var correctCity;
 
-    // var levenshtein = require('fast-levenshtein');
+    // var levenshtein = levenshtein.require('fast-levenshtein');
 
 
 
